@@ -1,0 +1,8 @@
+{
+  "name": "Tool ghép ảnh Zabao",
+  "description": "Powerful web tool to combine multiple images into perfect grids with consistent aspect ratios and even spacing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
